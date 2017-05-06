@@ -1,0 +1,12 @@
+[ignore]
+./backend/*
+./src/bundle/*
+./main.js
+./renderer.js
+./node_modules/*
+
+[include]
+
+[libs]
+
+[options]
