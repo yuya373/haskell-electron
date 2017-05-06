@@ -1,4 +1,4 @@
 node_modules
 backend/.stack-work
 .tern-port
-renderer.js
+./renderer.js
